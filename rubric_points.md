@@ -11,4 +11,6 @@ You can set the coefficients of the controller by manual tuning as I did.
 
 I lose control of the car on the section where there is ground (brown area) after crossing the bridge few times, but since I could recognize the unexpected behavior of the car I ended up knowing which parameters I had to tweak and how much.
 
+In addition, the throttle has been modified so that when the car turns its speed goes down to a third of its regular speed: 30 mph.
+
 A video has been added in the `video` folder, of the lap run by the car in the simulator.
